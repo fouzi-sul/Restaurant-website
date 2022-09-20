@@ -810,10 +810,6 @@ footer.copyright{
     text-align: center;
     font-size: 0.75rem;
 }
-footer.copyright a{
-    color:var(--primary);
-    text-decoration: none;
-}
 
 .nav-background .mobile-logo{
     padding:1rem;
